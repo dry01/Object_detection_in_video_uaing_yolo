@@ -5,9 +5,9 @@ used pytorch pretrained yolo v5 model to detect object
 
 ### how to run 
 For example your video name is test_video.mp4 then write as below to run 
-'''python
-python Object_detector.py test_vedio.mp4
-'''
+```python
+python3 Object_detector.py test_vedio.mp4
+```
 
 ### Result on random video
 
